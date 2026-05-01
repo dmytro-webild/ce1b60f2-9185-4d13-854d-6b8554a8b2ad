@@ -88,7 +88,7 @@ export default function LandingPage() {
         {
           title: "Qualität",          description: "Höchste Standards bei jedem Bauabschnitt."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_640221-136.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D8ZGn7T4xoTSugJYh5RBhNv6t7/uploaded-1777666369995-camu2s8i.jpg"
       mediaAnimation="slide-up"
       imageAlt="construction team meeting site"
     />
@@ -136,15 +136,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "t1",          name: "Marian Bollert",          role: "Kunde",          testimonial: "Herr H. ist ein netter kompetenter Mitarbeiter.",          imageSrc: "http://img.b2bpic.net/free-photo/successful-businessman-imagines-great-career_1163-5478.jpg"},
+          id: "t1",          name: "Marian Bollert",          role: "Familienvater ",          testimonial: "Herr H. ist ein netter kompetenter Mitarbeiter.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D8ZGn7T4xoTSugJYh5RBhNv6t7/uploaded-1777666398000-vdc7va59.webp"},
         {
-          id: "t2",          name: "Mathias",          role: "Kunde",          testimonial: "Positiv: Ansprechbarkeit, Pünktlichkeit, Qualität, Professionalität.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg"},
+          id: "t2",          name: "Mathias",          role: "Familienvater ",          testimonial: "Positiv: Ansprechbarkeit, Pünktlichkeit, Qualität, Professionalität.",          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg"},
         {
-          id: "t3",          name: "Kevin",          role: "Kunde",          testimonial: "Sehr kompetente Bauabwicklung, immer wieder gerne.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-professional-partners-posing-photo-smiling-looking-camera-african-american-successful-businessman-caucasian-businesswoman-taking-selfie-teamwork-business-concept_74855-7442.jpg"},
+          id: "t3",          name: "Kevin",          role: "Familienvater ",          testimonial: "Sehr kompetente Bauabwicklung, immer wieder gerne.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-professional-partners-posing-photo-smiling-looking-camera-african-american-successful-businessman-caucasian-businesswoman-taking-selfie-teamwork-business-concept_74855-7442.jpg"},
         {
           id: "t4",          name: "Sabine M.",          role: "Kundin",          testimonial: "Alles bestens gelaufen, sehr zuverlässig.",          imageSrc: "http://img.b2bpic.net/free-photo/man-wearing-safety-helmet-giving-hand-shake_23-2148242884.jpg"},
         {
-          id: "t5",          name: "Thomas W.",          role: "Kunde",          testimonial: "Top Qualität bei fairem Preis.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-old-man-with-phone-showing-approval_23-2148269391.jpg"},
+          id: "t5",          name: "Thomas W.",          role: "Familienvater ",          testimonial: "Top Qualität bei fairem Preis.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-old-man-with-phone-showing-approval_23-2148269391.jpg"},
       ]}
       title="Kundenstimmen"
       description="Was unsere Kunden über unsere Arbeit sagen."
